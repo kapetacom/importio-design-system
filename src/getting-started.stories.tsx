@@ -5,7 +5,7 @@ import { BrandMark, Button, Card, CardContent, CardDescription, CardFooter, Card
 const meta = { title: 'Getting started', parameters: { layout: 'fullscreen' } } satisfies Meta;
 export default meta;
 type Story = StoryObj<typeof meta>;
-const repositoryUrl = 'https://github.com/hcirbor/importio-design-system';
+const repositoryUrl = 'https://github.com/kapetacom/importio-design-system';
 const packageUrl = 'https://www.npmjs.com/package/@importio/design-system';
 
 export const Introduction: Story = { render: () => (

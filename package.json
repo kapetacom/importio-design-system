@@ -13,11 +13,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hcirbor/importio-design-system.git"
+    "url": "git+https://github.com/kapetacom/importio-design-system.git"
   },
-  "homepage": "https://hcirbor.github.io/importio-design-system/",
+  "homepage": "https://kapetacom.github.io/importio-design-system/",
   "bugs": {
-    "url": "https://github.com/hcirbor/importio-design-system/issues"
+    "url": "https://github.com/kapetacom/importio-design-system/issues"
   },
   "type": "module",
   "sideEffects": [
